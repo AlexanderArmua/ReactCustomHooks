@@ -2,7 +2,7 @@
 
 Example 1:
 ```js
-    const { counter, increment, decrement, reset } = useCounter(10);
+    const { counter, increment, decrement, reset } = useCounter(10)
 
 
     return (
